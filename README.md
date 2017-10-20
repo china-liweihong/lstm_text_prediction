@@ -60,11 +60,9 @@ saved after each epoch and it was observed that it got saturated after
 13-15 epochs. A detailed result is available in the *log.txt* file
 attached. The results for some of the epochs are given below:
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+**Results**
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-Epoch 1/30
+**Epoch 1/30**
 
 490279/490279 \[==============================\] - 134s - loss: 1.6788
 
@@ -105,7 +103,7 @@ with result destriction of the*
 
 *rest right of a muster measure souction which them and labor to*
 
-Epoch 10/30
+**Epoch 10/30**
 
 490279/490279 \[==============================\] - 132s - loss: 1.6265
 
@@ -145,7 +143,7 @@ do not socialism and*
 
 *owners to recommert. it is government readed of the market pro*
 
-Epoch 20/30
+**Epoch 20/30**
 
 490279/490279 \[==============================\] - 133s - loss: 1.6424
 
@@ -186,7 +184,7 @@ persoroblech production*
 *between withor contriciation is the concept of conditions or the great
 to*
 
-Epoch 30/30
+**Epoch 30/30**
 
 490279/490279 \[==============================\] - 135s - loss: 1.6228
 
@@ -249,9 +247,6 @@ enabled and cuDNN installed.
 
 **References:**
 
-1.
-https://github.com/fchollet/keras/blob/master/examples/lstm\_text\_generation.py
-
-2\. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-
-3\. http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+-https://github.com/fchollet/keras/blob/master/examples/lstm\_text\_generation.py
+-http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+-http://colah.github.io/posts/2015-08-Understanding-LSTMs/
