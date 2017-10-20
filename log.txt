@@ -1,0 +1,427 @@
+Using Theano backend.
+Using gpu device 0: GeForce GTX 970M (CNMeM is enabled with initial size: 95.0% of memory, cuDNN 5005)
+Seed Set to 7...
+corpus length: 2451431
+total chars: 62
+nb sequences: 490279
+Vectorization...
+
+------------------------------------------------------------
+Iteration:  1
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 134s - loss: 1.6788     
+
+----- diversity: 0.35
+----- Generating with seed: "people scorn and disparage capitalism an"
+people scorn and disparage capitalism and the money of the are not the wage of the secondard as the mistake conditions of the position of the process of the servine of the money and a produces and the produce of the prodeces of the social are man consumed and action of the money of the are an individuals and in the position of the produces and the such a produced to the social are the prodeces of the compleing the conditions of the wage
+
+----- diversity: 0.7
+----- Generating with seed: "people scorn and disparage capitalism an"
+people scorn and disparage capitalism and the economic point of the fanling of the supply of one postiolitious conditions of the result the are demand goods of powities to be tender within the goods in the manding money of a more moder that men can be commodity or with result perfect seller not demandind instince existive business in a prinect with result destriction of the rest right of a muster measure souction which them and labor to
+
+------------------------------------------------------------
+Iteration:  2
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 134s - loss: 1.6317      
+
+----- diversity: 0.35
+----- Generating with seed: "so calls entrepreneurs those who are esp"
+so calls entrepreneurs those who are espection of the comparity of the outdomard the production of the such production of the exchange as the contral of the terman for the production of the most many is the production of a such exchange of the most the contral of the capital expected and the such fight the saugged profits of the production of the prices of the production of the production of the interferent the contraction of the intern
+
+----- diversity: 0.7
+----- Generating with seed: "so calls entrepreneurs those who are esp"
+so calls entrepreneurs those who are espercely improvement of extraby the mich which the individuals who specian brings the planss even the torkerply to a because the terman's relation of the stat of the dumbly a profits acting the antermast in money accounts and such the faction. of the theory of the provented in the such extrange that sithing the more to available fact the authors to businession to production. the doctrsing and had wo
+
+------------------------------------------------------------
+Iteration:  3
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 136s - loss: 1.6388     
+
+----- diversity: 0.35
+----- Generating with seed: " historical component in money's purchas"
+ historical component in money's purchasing man be its such a always processer of the concerned as a proplements and the exchanges to the market and the inconding the same reasonism and the prices and the theory of the same means and the market interest and the satisfaction of the capital goods of the prices for the social and the conditions and the market concerned in the always factors of the exchanges and the production as the satisf
+
+----- diversity: 0.7
+----- Generating with seed: " historical component in money's purchas"
+ historical component in money's purchasing sume competitioned between the laws as constructed and the market in the mises of the capital state the production would be awald the trade the some the immanisticce that the class battee the social state of the time to comparianment of with the realized it is not the appepaiss. the even realize is reflecter withlogghes, and a. mave labtrawers, every. the matuely methods of livery this conditi
+
+------------------------------------------------------------
+Iteration:  4
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 134s - loss: 1.6487     
+
+----- diversity: 0.35
+----- Generating with seed: "he meanness of a social order in which e"
+he meanness of a social order in which entrepreneur state of the present to the supply of the supplay that the production and the present of the present of the permation of the present to the alleged of the consumption of the power as everybory and state of the price of the absolutions of the social considered to in the market of interest of the self-dedered to exclass is not be only the people and the considered and the consumption of 
+
+----- diversity: 0.7
+----- Generating with seed: "he meanness of a social order in which e"
+he meanness of a social order in which excerds or individual abologe one raises the peiminalist and become are to shill time malineft of privative ameay to the purposed in a monopolical free that state of the defirian of the same of that are merely in the market of the secoffort in the classed be weller and the to supple of the concept of the entrilable concerner endor of a determinion of the to regard for competstilat in merely in the 
+
+------------------------------------------------------------
+Iteration:  5
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 137s - loss: 1.6073     
+
+----- diversity: 0.35
+----- Generating with seed: "e necessity of risking and acquiring his"
+e necessity of risking and acquiring his which the service the conduct of the production of the state of the course of the course of the theory of the the course of the autorine of the production of the social accomple to restriction is not the man in the production of the contrul the course of the course of the relation of the production of the course of the production of the course. in the course of the contral production of the servi
+
+----- diversity: 0.7
+----- Generating with seed: "e necessity of risking and acquiring his"
+e necessity of risking and acquiring his the man for the produce those government of the momital kentor moneyaperation of production between government of these soluty and ifost the come of the condition to the man feature of the record to contracticologet amount of prevent all the logious. the government the government events ourcerse the is production ard could which the proporturs of the such merely the mote of the stable condition o
+
+------------------------------------------------------------
+Iteration:  6
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 135s - loss: 1.6221     
+
+----- diversity: 0.35
+----- Generating with seed: "les victor, 50nlaputania, 8laski, harold"
+les victor, 50nlaputania, 8laski, harold and the supply of the superious of the production of the state of the current of the action of the consider the changes in the strace of the future in the consider the stricture the social stricture of the strade the consider or such a consider the society in the produce of the changes the stricing the consider of the consider the consider the consider the produce of the state of the consider det
+
+----- diversity: 0.7
+----- Generating with seed: "les victor, 50nlaputania, 8laski, harold"
+les victor, 50nlaputania, 8laski, harold, 4458644pprices, the businence but the amount of the howa they can with cantoe alone science by destried of profits and the production of the short exession the consider inditize the service of externation and other schole the formen state of coiven by become for the esters of the the 1926, 623, 454. 81121224642556660qonot individuals, and countries and they be adchent of odivized more position o
+
+------------------------------------------------------------
+Iteration:  7
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 136s - loss: 1.6317     
+
+----- diversity: 0.35
+----- Generating with seed: "e import and export duties and embargoes"
+e import and export duties and embargoes of the all the all the such as depressing the rest of the return of the market and the state of the market the products of the relation of the consumption. the market and the such advantage to the products and the consumption of the products of the all the same the material different and and actions of the tenders of the relation of the perfectly the social consumption of the same or not and the 
+
+----- diversity: 0.7
+----- Generating with seed: "e import and export duties and embargoes"
+e import and export duties and embargoes. it is the terms, the vary to other laragem. no assumptions to only economic the enterprines of the all ratical thanges and is money has contrantnons the granced on the encessing of the laves which an all consumption of the d such advantage or liken the lack which pulical doing justite have the laws to an all endients, a social he bank and which the prices of division of the way to such as people
+
+------------------------------------------------------------
+Iteration:  8
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 139s - loss: 1.6358     
+
+----- diversity: 0.35
+----- Generating with seed: "ust choose. it is impossible to have thi"
+ust choose. it is impossible to have things and than the production of the provide the production of the contrary of the primatic of the sectaral conditions of the money and that the production of the money and discression and that in this grouns of the confustion of the controus of the possible than the state of the production. the enime with the renoons of the production of the contrary of the process of the perice that the state of t
+
+----- diversity: 0.7
+----- Generating with seed: "ust choose. it is impossible to have thi"
+ust choose. it is impossible to have thinks energrand the money of the money. do not money it is an attaters the money as play cholary. in the enoones, a grent in order of the private any control system and conditions of the indirect proletion. and things all the money of internations advantage in such it action of the apparacy of the productioning the market economics is us fact the finetal state and within the distenious to the enome 
+
+------------------------------------------------------------
+Iteration:  9
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 135s - loss: 1.6240     
+
+----- diversity: 0.35
+----- Generating with seed: " divine inspiration of majorities. in th"
+ divine inspiration of majorities. in the compulst of the common the mathemal the action of the restricted by the matter of the character in the disider to the production of the terminate the ready, and a socialist and a such a matter of the action of the prices. it is the decisious and the sefficion of the production and the ready expansion of the case of the computition of the masket between the condition of the compused the expansion
+
+----- diversity: 0.7
+----- Generating with seed: " divine inspiration of majorities. in th"
+ divine inspiration of majorities. in the resertion of the firecion of their production in progress of the every amount of the colmotrance becoude to the distrrace of the formine, the and individualist distince of the course of view at a quantity of exchange of cannot for the production than a mise gevention of affairs and of the menop in production. they do simply a socialis position of coursion of the course of this historical as he b
+
+------------------------------------------------------------
+Iteration:  10
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 132s - loss: 1.6265     
+
+----- diversity: 0.35
+----- Generating with seed: " which people considereither with regard"
+ which people considereither with regard to the power of the domestic exchange of the market economy. they different and the productivity of money of the competitive of the state of the results of the realize of the fact the states of the solution of a man between the reality of the state of the states of the consumer the dividence of the socialist exchange as a money of the consumption of the productivity of the expended of the more of
+
+----- diversity: 0.7
+----- Generating with seed: " which people considereither with regard"
+ which people considereither with regard. they are it is not market state becaupanting the best of the signial countries of problems are same in their siles power to animally rule exchange. they work is no period. what is means in the fact the more the seeficed exchange are emerged to activitimences from them solection, ern and labor so, conditions. they do not socialism and owners to recommert. it is government readed of the market pro
+
+------------------------------------------------------------
+Iteration:  11
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 135s - loss: 1.6296     
+
+----- diversity: 0.35
+----- Generating with seed: "o answer these questions in the negative"
+o answer these questions in the negative of the consideration of the consumers of the result of the consumers of the construction of the to the consumers. the way the production and an and the considers to the consideration of the reserve the term and the production in the self-substitities of the individual value of the consumers and the way an individe and the enflect the prices and the individual and is a satisfaction. the market pri
+
+----- diversity: 0.7
+----- Generating with seed: "o answer these questions in the negative"
+o answer these questions in the negative demand of the particulted the consumers. not aseed to the tried and of calls. the prices. they be misto the fund emanomern and action of social to natardenties and the fact that the catessard the provece of an enked the concerned the tend the change the possible that the convaled be the moderat price the can of the longer of the offered from the conver matter has solution of secity the brend to h
+
+------------------------------------------------------------
+Iteration:  12
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 134s - loss: 1.6032     
+
+----- diversity: 0.35
+----- Generating with seed: " in prices which permits one to liken th"
+ in prices which permits one to liken the consumers of the the and the production of the production of the consumption of the entrepreneurs of the consumption of the consumption the consider of the same of the entrepreneurs of the state of the events in the market action the lower of the increase the increase and the every the production of the and the and the production the production of the play selfer of the production of the action 
+
+----- diversity: 0.7
+----- Generating with seed: " in prices which permits one to liken th"
+ in prices which permits one to liken there is no consumption the production of less consist enterpriges of a beolded, the capitalic production is the governmently are there the action at been structive unusse. the alleced is money inhight of many individuanntional consider the inalmen are can not considernce they most new of the immed of which society of the comprictive and production of the state of substituted his people for the play
+
+------------------------------------------------------------
+Iteration:  13
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 135s - loss: 1.6068     
+
+----- diversity: 0.35
+----- Generating with seed: "ly explodes a myth propagated by many po"
+ly explodes a myth propagated by many possibistic of a a consider in the power to dealing in the same of the same of the interests and a state of the production of the state of the consider the superies of the scaune of the consequently production of the entrepreneurial of the consequently emerges and the production of the consequence to the profiticization of an a state of the market to all economists are such an interests to productio
+
+----- diversity: 0.7
+----- Generating with seed: "ly explodes a myth propagated by many po"
+ly explodes a myth propagated by many point. the capital and that is to relations of this to scient of the hasts are deal that such impontion of the mose that the can be suporial activities superies of the consumers of the under ton. it may bed theis make to the regard in the interests and an increase the exceased but his one sellies and the superie. their mistake on the fact that a s one consequently most to the consider to makes it fo
+
+------------------------------------------------------------
+Iteration:  14
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 137s - loss: 1.6493     
+
+----- diversity: 0.35
+----- Generating with seed: "station of a man's will. but this would "
+station of a man's will. but this would as a special processes and the man as and and the man as it is only and the correct of the interests and the social consertion of the man is an adequations of the construction of the discrices of the pression of the advances and the and the fentary of the employed and the lines and the supply of the striction of the and but as an entrepreneurs of their consideration of the consertes and the restri
+
+----- diversity: 0.7
+----- Generating with seed: "station of a man's will. but this would "
+station of a man's will. but this would not the dispation and diffeered by the entrepreneurs of entrepreneurs is pehist of the want for state of a do for and issuant can be hope of production of the market a generatical are the only has not has the advances and science of the fundust for all which pressurt we the investment and phy action of their saptence and their can manide and first and profitable economy and factors of fact ontrepr
+
+------------------------------------------------------------
+Iteration:  15
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 137s - loss: 1.6102     
+
+----- diversity: 0.35
+----- Generating with seed: "ments and labor unions.such are the idea"
+ments and labor unions.such are the ideal a meaning the process and in the bedogents and the prices and the period only the problem of the accornted by the complexent and society of the competition of the problem and the problem the produce which is a programed by the problem and problems and the complexent of the complexent of the acting acting in the consequences the market with the production of the individual about the problem of th
+
+----- diversity: 0.7
+----- Generating with seed: "ments and labor unions.such are the idea"
+ments and labor unions.such are the ideal by the denation of the ight in phices the demining not advanated by any being the chosionalist by the products not retained by the owners in the appeor wrates as longer the heains ob lond on the courselledrances and the if the do not and to market. he which belof a demands the labor and coopery competition the with the construction the valid that the did alwass to all the determinanis must be co
+
+------------------------------------------------------------
+Iteration:  16
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 133s - loss: 1.6051     
+
+----- diversity: 0.35
+----- Generating with seed: "receding boom and the following slump co"
+receding boom and the following slump consumers' socialism and and of the increase of the consumers' section is the actions and the termining the section of the substitution of the entrepreneur process is not a man and the production as in the consumers' goods of the conditions of the demand to the export of the fact that the termin to the such a consumers' discurtion of the adrait the provide a is the consumers' goods and the such a su
+
+----- diversity: 0.7
+----- Generating with seed: "receding boom and the following slump co"
+receding boom and the following slump cond and would bu mere internation to the coffectivism in it of the more of the fact that care all past that human a such an life of the outcome of a a such ane the posines telder the he the various semious the sumple, the calingations. is with the employed in whether would superations. the undefination. the government in his substic of long and it affairs, would has influy that the changes consumer
+
+------------------------------------------------------------
+Iteration:  17
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 133s - loss: 1.6405     
+
+----- diversity: 0.35
+----- Generating with seed: "induced changes in purchasing power.the "
+induced changes in purchasing power.the interest are not they of the prices of the problems in character and they are states and also a satisfaction of events entrepreneurs are social action and they are discharactic production and the difference with they are not capital goods and the production and the positic of the distivitions of the property that they are be of the services of the prefermanism and consumers to the distimution of t
+
+----- diversity: 0.7
+----- Generating with seed: "induced changes in purchasing power.the "
+induced changes in purchasing power.the purchasing statements into the senties of they the the also on any extery any disconce of the supply of social interventionistic states sperience is a postible. they civilization from the pase periods who adefia strate they aim prehisup in the cheapetital theory of the selted on which and interestionic assertim as only they religion of the special goods should are disposible who discerty of intere
+
+------------------------------------------------------------
+Iteration:  18
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 134s - loss: 1.6286      
+
+----- diversity: 0.35
+----- Generating with seed: "revails on the unhampered labor market a"
+revails on the unhampered labor market and with the market the money of action of the continue of the contines the consumption of such a merely the produced to the consumers of factors of the theory of the concernes the action of the means for the contrary and the supply of the contrary the consideration of the continuence of the continuence of the the contines and the consumers of continuence to the consumers to all the prices of the c
+
+----- diversity: 0.7
+----- Generating with seed: "revails on the unhampered labor market a"
+revails on the unhampered labor market and the silture with the market the conncter the outculk and actions and the sencreghious to subjective lees of who concernes and pribe arves the restriction of the attribelency of the contiture of the stund of connertation of the caured to a goods and wiral many prices of the consumers considered by the forced free determined by the group and those ferman money. these geneuation is are state as a 
+
+------------------------------------------------------------
+Iteration:  19
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 136s - loss: 1.6271     
+
+----- diversity: 0.35
+----- Generating with seed: " aesthetic enjoyment of a phenomenon. em"
+ aesthetic enjoyment of a phenomenon. employed of the such a social profit and which the consequences as the subject consequently restrictive of the productivity of the conflection of the period of a serve and the market a socialism are the factors are consumers of the considers are a the productivity of the restrictive the interest and the consider the acting to the inst and the market and the market the are the capital way and and cor
+
+----- diversity: 0.7
+----- Generating with seed: " aesthetic enjoyment of a phenomenon. em"
+ aesthetic enjoyment of a phenomenon. emergent of the original goods of the economic system means which however the does not profits is work the state some also lates which not every state for feens are very a count and a socies.the were the the lossery of some assume. the state of the laters for the market or the more as the factors as decide the sumples to the diblinted by the are of the pro2le in the consumert is the leasts, it is so
+
+------------------------------------------------------------
+Iteration:  20
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 133s - loss: 1.6424     
+
+----- diversity: 0.35
+----- Generating with seed: " time preceding the credit expansion a s"
+ time preceding the credit expansion a substitution of the controctory of the conditions of the conditions of production in the contrort of the restrict do not are individual are an income and the conditions of production of the conditions of the conditions of the controrthough of the consument of the contrict in the contrict and international proposing contrort to the entrepreneure of production of production of the contrort to an incr
+
+----- diversity: 0.7
+----- Generating with seed: " time preceding the credit expansion a s"
+ time preceding the credit expansion a services not a thounder who entirely cannot term without a more offers the fines market personing contropo that concerneration which interest reliberation and he does not production of the amount of the provide only the policy on the must recoursory are contrict mather employmoners araination.there is persoroblech production between withor contriciation is the concept of conditions or the great to 
+
+------------------------------------------------------------
+Iteration:  21
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 135s - loss: 1.6370     
+
+----- diversity: 0.35
+----- Generating with seed: ", 575611.4. cf. werner sombart, haendler"
+, 575611.4. cf. werner sombart, haendlers to the poster the provide the socialist of the fact the fact the production of the reasonable the market, the resultion of the work the consumed to the fact to the mark the same of the activities the monopolization of the provide the consumed by the production of the market economy the state the manifests of the monopoly. the market economy and the consumed the same interpreating the supportant 
+
+----- diversity: 0.7
+----- Generating with seed: ", 575611.4. cf. werner sombart, haendler"
+, 575611.4. cf. werner sombart, haendlere of these excrest in the contricted to the satisfaction to a price of the succeed. thosen which were supply the theory would caunte the and with the monopoly of the activities, and whole whether the support. the law and not devolut to definite coumte the dealing the consumed to the same nevernment been the depests of this preneurs and an ampart market. they are and he want and competition of the 
+
+------------------------------------------------------------
+Iteration:  22
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 135s - loss: 1.6234     
+
+----- diversity: 0.35
+----- Generating with seed: "ld take a very long time until they caug"
+ld take a very long time until they cauget of the contrary of the contrary to the contract the determines and the contract the even be were to employment of the market of on the contraction of the production of economic could to the only to the production of the production of limited by the production of the production of the production of the production of the position of a man the production of the contral of the production of the pro
+
+----- diversity: 0.7
+----- Generating with seed: "ld take a very long time until they caug"
+ld take a very long time until they caugs, have nothor for individuals of evilable that the banking profit of the extern bey should defect a position of the present advance or become and and reveous processe for the pethons of the production for branchant of the tephistic compecity of many with the part of the production of the expended of a banh bunder action of the manabod. but achieve the people for the dealter be advance of producti
+
+------------------------------------------------------------
+Iteration:  23
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 135s - loss: 1.6348     
+
+----- diversity: 0.35
+----- Generating with seed: "ent being could fail to give the correct"
+ent being could fail to give the correcties of the problem of the state of the socialistic proviblise and the way and the institution of the market and the problem of the postious and the construction of the profits of the profits of the provided by the other unitnous between the resolted by the monopolity of the profits to the to the restriction of the most and the action of the construction of the prices of problem of the to the the p
+
+----- diversity: 0.7
+----- Generating with seed: "ent being could fail to give the correct"
+ent being could fail to give the correctly moit prepertibory. the mind of profits were only with the can echorian the propert of the more on production of the flancies for the problem of the roass of socialism to a faction of the services and profit with the action of one cheact of not nreading the entirely the crifities with the call of profit in the costs the experience the actions of unleading society would the catallactic price in t
+
+------------------------------------------------------------
+Iteration:  24
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 136s - loss: 1.6230     
+
+----- diversity: 0.35
+----- Generating with seed: "t to miss any of the advantages derived "
+t to miss any of the advantages derived again to the work the destraction of the production of the demand of the production of the most and the means of the formed by the conditions and the production of the countrial services of the process of the defined and the real work of the deally and the market economic science of the proving of the means and the production of the principle of the supply of the production of the demand and the f
+
+----- diversity: 0.7
+----- Generating with seed: "t to miss any of the advantages derived "
+t to miss any of the advantages derived the government. the prices who do not beltiming the rise against that the law of the define and the realize thus in this wage rates of the production of the services was to businoness, the pressival demand and economic prosected by an expectation of natural convertitation of this the destrie which and streins of economic stas both on, for the is of an enoughting conmittion of human moners entrepre
+
+------------------------------------------------------------
+Iteration:  25
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 136s - loss: 1.6161     
+
+----- diversity: 0.35
+----- Generating with seed: " changes in the market data and in produ"
+ changes in the market data and in production of production of production of production of economics and the prices of production of the production of the outcome of the production of production of production as the contraction of production of the present of the contraction of the production of the action of production of the states of the states the states are state of the consumers primiting state of production of production of contr
+
+----- diversity: 0.7
+----- Generating with seed: " changes in the market data and in produ"
+ changes in the market data and in production of social production the facts of pure prices of value he production of the schools of labor and a social states the state, and calculateds of many at a disabstrabol in the satisfaction will stallity of the stabillist people are instanthic minitues of prise of the long in state of perionm are usequantion and monation. every about peefertion is a betretication of prices are in any goods of me
+
+------------------------------------------------------------
+Iteration:  26
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 138s - loss: 1.6118     
+
+----- diversity: 0.35
+----- Generating with seed: " without notice and free of expense, the"
+ without notice and free of expense, the competition and the content of the confliction of the services to a services and a money and the value into the production in the production of the countries to be the price of the possible and their be a matter and the posting the competition of holding the comport of the production of the market and interesting in the content of the contention of the market economic content of the production of
+
+----- diversity: 0.7
+----- Generating with seed: " without notice and free of expense, the"
+ without notice and free of expense, the but if the putchasing endsowe competitors edvatt antagrean addition and all controction in the unit would human the services. the power of the expending and to the public and. they are in the safitions. for a post a. post of a competitive from the enternentional fut of the a fact to the interest of market economic content of fact to a sents in the possibles, labor of inenter to all the condition 
+
+------------------------------------------------------------
+Iteration:  27
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 139s - loss: 1.6283     
+
+----- diversity: 0.35
+----- Generating with seed: "of the balance of payments determines th"
+of the balance of payments determines the comple and the labor the services of the theor and the fact that the experient with the wart to a money stardard of the consider the prices of the complent of the comple of the are socialism the prices and interests between the consider the prices with the self the sige and alther and consider the work interests of the construction and in and only may as the construction of the production and th
+
+----- diversity: 0.7
+----- Generating with seed: "of the balance of payments determines th"
+of the balance of payments determines the processe self the of prondent of the certaining industrians of the prices. the ways as a comples these for the oppinian and the sold enjoy problems and comestice that its the openation and the chose on the changed as a cost and good and prices as aimary in the market 1939, 1, now intenvision, 4333.6, 649nemaning coestrical appatic, has processes of reisonding an the will is which are non the qua
+
+------------------------------------------------------------
+Iteration:  28
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 134s - loss: 1.6460     
+
+----- diversity: 0.35
+----- Generating with seed: "ndaanticapitalist, 587business, 316319pr"
+ndaanticapitalist, 587business, 316319production, 6, 6, 22, 689, 26, 65, 52, 28, 3, 68, 6amailaric of succession of the entrepreneurs of the expecied the more and by a mechal and any a conker the production and there and and therefust the agrees of the conditions of the market and production and the ortiness and a supply of the merely, and of the may the realized the instruction and fur the market of the marghation of a man and any a ma
+
+----- diversity: 0.7
+----- Generating with seed: "ndaanticapitalist, 587business, 316319pr"
+ndaanticapitalist, 587business, 316319production, 2, 291, 7, 84, 28, 61, 22, 526, 455, 626, 674, 49, 22, 56, 347, 67, 7, 69, 76, every the substituteraters in any admired must chapingeciand and of the same substituteress. but for the samitain the margethe of therebed for what that the existens advantabaly production, it is promate aboved that a specificly, different and buysarismuctory is a realized the same any relies and zalage. it is
+
+------------------------------------------------------------
+Iteration:  29
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 135s - loss: 1.6619     
+
+----- diversity: 0.35
+----- Generating with seed: "issue of the case in question, but state"
+issue of the case in question, but state of any satisfaction of the action of the market and socialism were some conditions of the consumers of the products of the production of conditions of the most of the products of the price discrod to and the prices of the conduct of the money of the conduct of the production of the conduct to the consumers of the price the conduct of the loss. the socialism. the various some such one with regard 
+
+----- diversity: 0.7
+----- Generating with seed: "issue of the case in question, but state"
+issue of the case in question, but state price ofference is profits to an the various action of an needed and prifits of blab be to the appearation of mon their was the political beges of thesem. the methodatar permoners are not externations of conduct. the stor erver belobods to the production of a different of socialism are do not measure. the supply. the certain connetured to a the constremare, the most the veast to the desinition of
+
+------------------------------------------------------------
+Iteration:  30
+Build network...
+Epoch 1/1
+490279/490279 [==============================] - 135s - loss: 1.6228     
+
+----- diversity: 0.35
+----- Generating with seed: "s are by the interplay of the forces ope"
+s are by the interplay of the forces operation of an important the are in the prices of the prices of the comporation of the comporitions of man of the process the society and the action of the prices of the complested the construction of the large of the process the profitation of the money and the economics and the consumers' that the consumers. but the comples of the fact that the ends of the society of the monopolistic process of in
+
+----- diversity: 0.7
+----- Generating with seed: "s are by the interplay of the forces ope"
+s are by the interplay of the forces operaty products which the money and and of at curred of some the gonding or of bank. if they brus to be suised for a marx. they are time. but which is the competition and the events of he it that the pricas of the money. for errors and prices. the prices. and the value that the forcun of the forme hard, they does not resprour inventating and the are purchasitativility and are from the solling the mo
